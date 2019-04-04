@@ -1,2 +1,2 @@
 # Lab-Based-Project
-Used Lammps to generate h-BN nano-sheets. And calculated fracture toughness. 
+Used Lammps to generate h-BN nano-sheet. And calculated fracture toughness. 
